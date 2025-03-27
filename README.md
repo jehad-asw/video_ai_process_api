@@ -120,6 +120,8 @@ The Swagger UI can be accessed at http://127.0.0.1:8000/docs to interact with th
 
 * results/: This folder stores metadata files related to processed videos (JSON files).
 
+* To test this api, there is a **`video file into videos`** folder, you can upload it from UI
+
 ### Running with Docker
 
 1. Build the Docker Image
