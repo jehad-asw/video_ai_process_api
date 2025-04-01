@@ -131,3 +131,8 @@ The Swagger UI can be accessed at http://127.0.0.1:8000/docs to interact with th
 2. Run the Container
 
     `docker run -p 8000:8000 my-fastapi-app`
+
+### Testing
+
+for test the endpoint you need to execute this command in your terminal
+    `pytest test_app.py`
